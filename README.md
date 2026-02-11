@@ -2,19 +2,19 @@
 
 ### A passionate Java developer
 
-- 🔭 I'm currently working on **Building scalable full-stack web applications using Spring Boot and ReactJS.**
+- 🔭 I'm currently working on Building scalable full-stack web applications using Spring Boot and ReactJS.
 
-- 🌱 I'm currently learning **Advanced Microservices architecture, System Design patterns, and DevOps practices with Docker & CI/CD.**
+- 🌱 I'm currently learning Advanced Microservices architecture, System Design patterns, and DevOps practices with Docker & CI/CD
 
-- 👯 I'm looking to collaborate on **Open-source Java projects or any innovative idea involving Backend development and Cloud computing**
+- 👯 I'm looking to collaborate on Open-source Java projects or any innovative idea involving Backend development and Cloud computing
 
-- 🤝 I'm looking for help with **Optimizing database queries (MySQL/MongoDB) and mastering advanced Spring Security configurations.**
+- 🤝 I'm looking for help with database query optimization (MySQL/MongoDB) and better understanding Spring Data JPA & Spring Security.
 
-- 💬 Ask me about **Java, Javascipt**
+- 💬 Ask me about Java, Javascipt
 
-- 📫 How to reach me **ngoxuanbac11@gmail.com**
+- 📫 How to reach me ngoxuanbac11@gmail.com
 
-- ⚡ Fun fact **I treat bugs as features until I fix them. Also, I turn coffee into code! ☕**
+- ⚡ Fun fact I treat bugs as features until I fix them. Also, I turn coffee into code! ☕
 
 - 👨‍💻 All of my projects are available at **[https://www.facebook.com/xuan.bac.117828](https://www.facebook.com/xuan.bac.117828)**
 
