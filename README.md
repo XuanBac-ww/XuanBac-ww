@@ -17,6 +17,7 @@
 - ⚡ Fun fact I treat bugs as features until I fix them. Also, I turn coffee into code! ☕
 
 - 👨‍💻 All of my projects are available at **[https://www.facebook.com/xuan.bac.117828](https://www.facebook.com/xuan.bac.117828)**
+- Beyond my current toolkit, I am highly adaptable and eager to master any technology required to drive project success.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,6 +31,8 @@
   <!-- Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 
   <!-- Backend / Frameworks -->
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
